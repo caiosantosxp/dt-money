@@ -16,17 +16,17 @@ Dt Money é uma aplicação de gerenciamento financeiro que permite aos usuário
 
 ## Instalação
 
-1. Clone o repositório:
-  ```sh
-  git clone https://github.com/caiosantosxp/dt-money.git
+1. Clone o repositório
+   ```sh
+   git clone https://github.com/caiosantosxp/dt-money
 
-2. Instale as dependências:
-  ```sh
-  npm install
+2. Instale os pacotes NPM
+   ```sh
+   npm install
 
-3. Execute o servidor de desenvolvimento:
-  ```sh
-  npm run dev
+3. Execute o aplicativo
+   ```sh
+   npm run dev
 
 
 ## Tecnologias Utilizadas
